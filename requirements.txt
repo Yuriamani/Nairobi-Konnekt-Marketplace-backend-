@@ -14,3 +14,4 @@ flask-cors==3.0.10
 python-dotenv==0.19.0
 flask-migrate==3.1.0
 sqlalchemy-serializer==1.4.1
+greenlet==2.0.1
