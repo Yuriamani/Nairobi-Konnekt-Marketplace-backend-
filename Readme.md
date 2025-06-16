@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Flask Marketplace Backend API</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Yuriamani/Nairobi-Konnekt-Marketplace-backend-/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Yuriamani/Nairobi-Konnekt-Marketplace-backend-/image?font=Inter&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">A RESTful API backend for an e-commerce marketplace built with Flask SQLAlchemy and PostgreSQL.</p>
 
