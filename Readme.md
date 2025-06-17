@@ -6,6 +6,10 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="shields"><img src="https://img.shields.io/badge/Flask-2.0+-green.svg" alt="shields"><img src="https://img.shields.io/badge/PostgreSQL-13+-blue.svg" alt="shields"></p>
 
+<h2>🚀 Demo</h2>
+
+[https://nairobi-konnekt-marketplace-backend.onrender.com](https://nairobi-konnekt-marketplace-backend.onrender.com)
+
   
   
 <h2>🧐 Features</h2>
